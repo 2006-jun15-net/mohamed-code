@@ -7,7 +7,7 @@ namespace proceduralBasics
         static void Main(string[] args)
         {
             
-            Console.WriteLine("Enter a number fag: ");
+            Console.WriteLine("Enter a number : ");
 
             string userInput = Console.ReadLine();
 
