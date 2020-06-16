@@ -6,7 +6,14 @@ namespace proceduralBasics
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+            Console.WriteLine("Enter a number fag: ");
+
+            string userInput = Console.ReadLine();
+
+            int number = int.Parse(userInput);
+
+            Console.WriteLine("You entered: "+ number);
         }
     }
 }
