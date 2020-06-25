@@ -1,0 +1,18 @@
+﻿Restoring packages for C:\Revature\mohamed-code\1-chsarp\Serialization\Serialization\Serialization.csproj...
+  GET https://api.nuget.org/v3-flatcontainer/newtonsoft.json/index.json
+  OK https://api.nuget.org/v3-flatcontainer/newtonsoft.json/index.json 49ms
+  GET https://api.nuget.org/v3-flatcontainer/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg 20ms
+Installing Newtonsoft.Json 12.0.3.
+Installing NuGet package Newtonsoft.Json 12.0.3.
+Committing restore...
+Writing assets file to disk. Path: C:\Revature\mohamed-code\1-chsarp\Serialization\Serialization\obj\project.assets.json
+Successfully installed 'Newtonsoft.Json 12.0.3' to Serialization
+Executing nuget actions took 1.58 sec
+Time Elapsed: 00:00:04.0407267
+========== Finished ==========
+
+Time Elapsed: 00:00:00.0612816
+========== Finished ==========
+
+
