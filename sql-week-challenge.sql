@@ -40,9 +40,9 @@ VALUES(
 Select * From Orders
 Where Orders.CustomerID = 1;
 
-SELECT ID, SUM(Count(*)*P.Price) as 'Total Revenue'
+SELECT SUM(P.Price) as 'Total Revenue'
 From Orders as O
-Join Products as P
+Left Join Products as P
 ON  O.ProductID = P.ID
 WHERE P.ID = 1;
 
