@@ -53,20 +53,20 @@ namespace ChinookApp
 
             DisplayData();
 
-            Console.WriteLine("\nAdding some data...");
-            AddSomeDataFromUserInput();
+            //Console.WriteLine("\nAdding some data...");
+            //AddSomeDataFromUserInput();
 
-            DisplayData();
+            //DisplayData();
 
-            Console.WriteLine("\nUpdating some data...");
-            UpdateSomeData();
+            //Console.WriteLine("\nUpdating some data...");
+            //UpdateSomeData();
 
-            DisplayData();
+            //DisplayData();
 
-            Console.WriteLine("\nDeleting some data...");
-            DeleteSomeData();
+            //Console.WriteLine("\nDeleting some data...");
+            //DeleteSomeData();
 
-            DisplayData();
+            //DisplayData();
         }
 
 
